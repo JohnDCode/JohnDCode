@@ -56,7 +56,7 @@ Passionate about the intersection of **software engineering & financial markets*
 ### 🌎 Career Aspirations  
 I’m working toward becoming a **Quant Developer**, combining my love for **math, finance, and high-performance computing**.
 
-However, I am open to both general **software development** and **financial** internships career opportunities. 
+However, I am open to both general **software development** and **financial** internships and career opportunities. 
 
 ---
 
