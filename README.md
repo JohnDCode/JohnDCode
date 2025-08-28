@@ -13,8 +13,8 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 
 ### 📈 Featured Projects  
 - **[TradeCaster](#)** – Web-based ML alpha signal generator for time series forecasting  
-- **[St3wart](#)** – Multi-threaded Windows security management platform in C#/.NET  
-- **[RustQuant](#)** – CLI options pricer in Rust with live market data  
+- **[St3wart](https://github.com/JohnDCode/St3wartCLI)** – Multi-threaded Windows security management platform in C#/.NET  
+- **[RustQuant](https://github.com/JohnDCode/RustQuant)** – CLI options pricer in Rust with live market data  
 
 ---
 
@@ -22,7 +22,7 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 - **Georgia Institute of Technology** (Atlanta, GA)  
   - 📚 B.S. in **Computer Science** (Focus: Intelligence & Modeling/Simulation)  
   - 📚 B.S. in **Mathematics**  
-  - 🎯 Enrolled in the **MS/BS Computer Science program** (expected 2029)  
+  - 🎯 **MS/BS Computer Science program** (expected 2029)  
 
 ---
 
