@@ -48,8 +48,8 @@ Passionate about the intersection of **software engineering & financial markets*
 ---
 
 ### 🛠️ Technical Skills  
-**Languages:** C++, Python, Rust, Java, C#, C, JavaScript (Node/Next), PowerShell, Bash  
-**Tools & Frameworks:** Git, Docker, Apache, PyTorch, TensorFlow, React, SQL, Postgres, VMware, AWS  
+**Languages:** C++, Python, Rust, Java, C#, C, JavaScript (React/Node/Next), PowerShell, Bash  
+**Tools & Frameworks:** Git, Docker, VMWare, Apache, Postgres, SQL, Pandas, Numpy, PyTorch, TensorFlow, AWS
 
 ---
 
