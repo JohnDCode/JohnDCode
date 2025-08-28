@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm John David Abe</h1>
+<h1 align="center">Hi 👋, I'm JohnDavid Abe</h1>
 <h3 align="center">Quant Developer in the Making | CS & Math @ Georgia Tech</h3>
 
 ---
