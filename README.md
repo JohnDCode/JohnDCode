@@ -14,7 +14,8 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 ### 📈 Featured Projects  
 - **[TradeCaster](#)** – Web-based ML alpha signal generator for time series forecasting  
 - **[St3wart](https://github.com/JohnDCode/St3wartCLI)** – Multi-threaded Windows security management platform in C#/.NET  
-- **[RustQuant](https://github.com/JohnDCode/RustQuant)** – CLI options pricer in Rust with live market data  
+- **[RustQuant](https://github.com/JohnDCode/RustQuant)** – CLI options pricer in Rust with live market data
+- **[Backtesting Engine](https://github.com/JohnDCode/Backtesting-Engine)** – High performance backtesting engine framework written in C++
 
 ---
 
