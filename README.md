@@ -7,7 +7,7 @@
 ### 🚀 About Me  
 I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, with a focus on **intelligence, modeling, and simulation**.  
 
-💡 Passionate about the intersection of **software engineering & financial markets**, I’m pursuing a career in **quantitative development** — where algorithms meet real-world impact.  
+Passionate about the intersection of **software engineering & financial markets** and **high performance computing**. I’m pursuing a career in **quantitative development** — where computer science makes a real-world impact.  
 
 ---
 
@@ -21,9 +21,9 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 
 ### 🎓 Education  
 - **Georgia Institute of Technology** (Atlanta, GA)  
-  - 📚 B.S. in **Computer Science** (Focus: Intelligence & Modeling/Simulation)  
-  - 📚 B.S. in **Mathematics**  
-  - 🎯 **MS/BS Computer Science program** (expected 2029)  
+  - B.S. in **Computer Science** (Focus: Intelligence & Modeling/Simulation)  
+  - B.S. in **Mathematics**  
+  - **MS/BS Computer Science program** (expected 2029)  
 
 ---
 
@@ -54,7 +54,9 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 ---
 
 ### 🌎 Career Aspirations  
-⚡ I’m working toward becoming a **Quant Developer**, combining my love for **math, finance, and high-performance computing**.  
+I’m working toward becoming a **Quant Developer**, combining my love for **math, finance, and high-performance computing**.
+
+However, I am open to both general **software development** and **financial** internships career opportunities. 
 
 ---
 
@@ -62,8 +64,6 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 - 📧 Email: **johndavidabe101@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/johndcode](https://linkedin.com/in/johndcode)  
 - 🧑‍💻 GitHub: [github.com/johndcode](https://github.com/johndcode)  
-
----
 
 ---
 
