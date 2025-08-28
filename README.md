@@ -11,6 +11,13 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 
 ---
 
+### 📈 Featured Projects  
+- **[TradeCaster](#)** – Web-based ML alpha signal generator for time series forecasting  
+- **[St3wart](#)** – Multi-threaded Windows security management platform in C#/.NET  
+- **[RustQuant](#)** – CLI options pricer in Rust with live market data  
+
+---
+
 ### 🎓 Education  
 - **Georgia Institute of Technology** (Atlanta, GA)  
   - 📚 B.S. in **Computer Science** (Focus: Intelligence & Modeling/Simulation)  
@@ -42,13 +49,6 @@ I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, wit
 ### 🛠️ Technical Skills  
 **Languages:** C++, Python, Rust, Java, C#, C, JavaScript (Node/Next), PowerShell, Bash  
 **Tools & Frameworks:** Git, Docker, Apache, PyTorch, TensorFlow, React, SQL, Postgres, VMware, AWS  
-
----
-
-### 📈 Featured Projects  
-- **[TradeCaster](#)** – Web-based ML alpha signal generator for time series forecasting  
-- **[St3wart](#)** – Multi-threaded Windows security management platform in C#/.NET  
-- **[RustQuant](#)** – CLI options pricer in Rust with live market data  
 
 ---
 
