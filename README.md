@@ -23,7 +23,7 @@ Passionate about the intersection of **software engineering & financial markets*
 - **Georgia Institute of Technology** (Atlanta, GA)  
   - B.S. in **Computer Science** (Focus: Intelligence & Modeling/Simulation)  
   - B.S. in **Mathematics**  
-  - **MS/BS Computer Science program** (expected 2029)  
+  - **MS/BS Computer Science program**
 
 ---
 
