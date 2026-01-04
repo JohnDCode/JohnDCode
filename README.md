@@ -58,19 +58,19 @@ Passionate about the intersection of **software engineering & financial markets*
 ### 🏆 Extracurriculars    
 
 - **ICPC & Codeforces** (2025 - Present)  
-  - Recently, I've been diving in to competitive programming, and hope to reach the rank of expert by the end of the spring semester!  
+  - Recently, I've been diving in to competitive programming, and hope to reach the rank of Codeforces expert by the end of the spring semester!  
 
 - **CyberPatriot & CTF's** (2022 - Present)  
-  - National Finalist and 3x Nevada State Champion in the United States AFA backed syshardening competition, CyberPatriot.
-  - Competed in a variety of CTF's as well (most recently being CMU's PicoCTF - 6th place in division).
+  - National Finalist and 3x Nevada State Champion in the United States AFA-backed syshardening competition, CyberPatriot.
+  - Competed in a variety of CTF's (most recently being CMU's PicoCTF - 6th place in division).
 
 - **VRC & FRC Robotics** (Incoming Summer 2026)  
-  - Launched my own private VRC robotics team, breaking regional records for most awards won in a single season.
+  - Launched my own private VRC robotics team, breaking the regional record for most awards won in a single season.
 
 ---
 
 ### 🙂 Personal Passions
-Aside from computer science interests, I love dogs, Minecraft, going for runs, and spending time with friends!
+Aside from my interests within computer science, I love dogs, Minecraft, going for runs, and spending time with friends!
 
 ---
 
