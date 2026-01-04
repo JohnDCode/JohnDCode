@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 About Me  
-I’m a **Computer Science + Mathematics double major** at **Georgia Tech**, with a focus on **intelligence, modeling, and simulation**.  
+I’m a **Computer Science + Mathematics** student at **Georgia Tech**, with a focus in **system architecture and intelligence**.  
 
-Passionate about the intersection of **software engineering & financial markets** and **high performance computing**. I’m pursuing a career in **quantitative development** — where computer science makes a real-world impact.  
+Passionate about the intersection of **software engineering & financial markets** and **low latency computing**. I’m pursuing a career in **quantitative development** — where computer science makes a real-world impact.  
 
 ---
 
