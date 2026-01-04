@@ -48,10 +48,10 @@ Passionate about the intersection of **software engineering & financial markets*
 ---
 
 ### 🛠️ Technical Skills  
-**Languages:**  C++, Python, Java, Rust, C, Bash, PowerShell 
-**Technologies:** Git/GitHub, CMake, VMWare, MongoDB, NGINX, PostgreSQL 
-**Frameworks:** AWS, Linux, Next.js, Flask, Pandas, NumPy, .NET, Flutter, Active Directory 
-**Interests:** Systems Programming, Operating Systems, Windows Security 
+**Languages:**  C++, Python, Java, Rust, C, Bash, PowerShell  
+**Technologies:** Git/GitHub, CMake, VMWare, MongoDB, NGINX, PostgreSQL  
+**Frameworks:** AWS, Linux, Next.js, Flask, Pandas, NumPy, .NET, Flutter, Active Directory  
+**Interests:** Systems Programming, Operating Systems, Windows Security  
 
 ---
 
