@@ -55,7 +55,7 @@ Passionate about the intersection of **software engineering & financial markets*
 
 ---
 
-### 🌎 Extracurriculars    
+### 🏆 Extracurriculars    
 
 - **ICPC & Codeforces** (2025 - Present)  
   - Recently, I've been diving in to competitive programming, and hope to reach the rank of expert by the end of the spring semester!  
@@ -69,7 +69,7 @@ Passionate about the intersection of **software engineering & financial markets*
 
 ---
 
-### Personal Passions
+### 🙂 Personal Passions
 Aside from computer science interests, I love dogs, Minecraft, going for runs, and spending time with friends!
 
 ---
