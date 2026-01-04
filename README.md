@@ -29,6 +29,9 @@ Passionate about the intersection of **software engineering & financial markets*
 ---
 
 ### 💻 Professional Experience  
+- **Quantitative Developer @ Quantbot** (Incoming Summer 2026)  
+  - Selected to work on low level trading and backtesting infrastructure in C++ and Python.
+
 - **Software Developer @ ShoreDrop** (2025 – Present)  
   - Next.js/MongoDB/Ngnix website + Flutter mobile app  
   - Built precise **on-beach delivery system**  
