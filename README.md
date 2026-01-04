@@ -12,8 +12,8 @@ Passionate about the intersection of **software engineering & financial markets*
 ---
 
 ### 📈 Featured Projects
-- **[St3sh](#)** – POSIX-Compatible Shell & Terminal Emulator
-- **[MangOS](https://github.com/DylanBT928/mangOS)** – Custom 64-bit x86-64 Operating System
+- **[St3sh](#)** – POSIX-Compatible shell & terminal emulator
+- **[MangOS](https://github.com/DylanBT928/mangOS)** – Custom 64-bit x86-64 operating system
 - **[TradeCaster](#)** – Web-based ML alpha signal generator for time series forecasting
 - **[St3wart](https://github.com/JohnDCode/St3wartCLI)** – Multi-threaded Windows security management platform in C#/.NET  
 - **[RustQuant](https://github.com/JohnDCode/RustQuant)** – CLI options pricer in Rust with live market data
