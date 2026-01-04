@@ -11,8 +11,10 @@ Passionate about the intersection of **software engineering & financial markets*
 
 ---
 
-### 📈 Featured Projects  
-- **[TradeCaster](#)** – Web-based ML alpha signal generator for time series forecasting  
+### 📈 Featured Projects
+- **[St3sh](#)** – POSIX-Compatible Shell & Terminal Emulator
+- **[MangOS](https://github.com/DylanBT928/mangOS)** – Custom 64-bit x86-64 Operating System
+- **[TradeCaster](#)** – Web-based ML alpha signal generator for time series forecasting
 - **[St3wart](https://github.com/JohnDCode/St3wartCLI)** – Multi-threaded Windows security management platform in C#/.NET  
 - **[RustQuant](https://github.com/JohnDCode/RustQuant)** – CLI options pricer in Rust with live market data
 - **[Backtesting Engine](https://github.com/JohnDCode/Backtesting-Engine)** – High performance backtesting engine framework written in C++
@@ -21,29 +23,24 @@ Passionate about the intersection of **software engineering & financial markets*
 
 ### 🎓 Education  
 - **Georgia Institute of Technology** (Atlanta, GA)  
-  - B.S. in **Computer Science** (Focus: Intelligence & Modeling/Simulation)  
-  - B.S. in **Mathematics**  
-  - **MS/BS Computer Science program**
+  - B.S. in **Computer Science** (Focus: Systems & Architecture, Intelligence)  
+  - B.S. (pursuing B.S., may convert to minor) in **Mathematics**
 
 ---
 
 ### 💻 Professional Experience  
 - **Software Developer @ ShoreDrop** (2025 – Present)  
-  - React/Node.js website + Flutter mobile app  
-  - Built precise GPS-enabled **on-beach delivery system**  
+  - Next.js/MongoDB/Ngnix website + Flutter mobile app  
+  - Built precise **on-beach delivery system**  
   - Integrated with **AWS cloud infrastructure**  
 
-- **Web Developer @ Ultimate Info Services** (2024)  
-  - Maintained & optimized WordPress sites for 10+ small business clients  
-  - SEO, analytics, and technical troubleshooting  
-
-- **AI & Data Science Researcher @ Unified Compliance (Network Frontiers)** (2022–2024)  
+- **AI & Data Science Fellow @ Unified Compliance (Network Frontiers)** (2022–2024)  
   - Conducted applied **AI/ML research on regulatory compliance**  
-  - Co-authored **2 published research papers**  
+  - Co-authored **2 published research papers**
 
 - **Founder & Managing Partner @ CJKT Robotics** (2023–2025)  
-  - Nonprofit teaching robotics to Title I students  
-  - Competed in **VEX Robotics World Championships**  
+  - Nonprofit teaching robotics to Title I students
+  - Competed in **VEX Robotics World Championships**
 
 ---
 
@@ -63,7 +60,8 @@ However, I am open to both general **software development** and **financial** in
 ### 📫 Contact Me  
 - 📧 Email: **johndavidabe101@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/johndcode](https://linkedin.com/in/johndcode)  
-- 🧑‍💻 GitHub: [github.com/johndcode](https://github.com/johndcode)  
+- 🧑‍💻 GitHub: [github.com/johndcode](https://github.com/johndcode)
+- 🌐 Website: [johndcode.com](https://www.johndcode.com)
 
 ---
 
